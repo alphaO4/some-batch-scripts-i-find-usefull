@@ -1,30 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to this repo.
 
-You can use the [editor on GitHub](https://github.com/alphaO4/some-batch-scripts-i-find-usefull/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here I will somtimes push my most used batch and Powershell scribts.
+If you like this conside starring this site.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contributing
 
-```markdown
-Syntax highlighted code block
+Fell free to contribute as much as you want, after I check the code for potential malware or viruses. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
